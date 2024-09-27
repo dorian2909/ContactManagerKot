@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContasctManager</string>
+    <string name="ButtAddCont">Agregar Contacto</string>
+    <string name="ButtVieCont">Ver Contactps</string>
+    <string name="List">Buscar Contactos</string>
+    <string name="Addcont">Agregar Contactos</string>
+    <string name="MnuSave">Guardar</string>
+    <string name="MnuDelete">Eliminar</string>
+    <string name="MnuCancel">Cancelar</string>
+</resources>

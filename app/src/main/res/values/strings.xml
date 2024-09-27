@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContasctManager</string>
+    <string name="ButtAddCont">Add Contact</string>
+    <string name="ButtVieCont">View Contacts</string>
+    <string name="List">Search Contact</string>
+    <string name="Addcont">Add Contact</string>
+    <string name="MnuSave">Save</string>
+    <string name="MnuDelete">Delete</string>
+    <string name="MnuCancel">Cancelar</string>
+
+
+
+
+
+
+
+
+
+
+
+</resources>
