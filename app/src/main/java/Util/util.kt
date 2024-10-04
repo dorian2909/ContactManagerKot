@@ -5,12 +5,12 @@ import android.content.Intent
 import androidx.core.content.ContextCompat.startActivity
 
 class util {
-    companion object {//clase estatica
-        fun openActivity(context: Context, objClass: Class<*>){//funcion normal
-            val inten= Intent(context, objClass)
-            startActivity(context, inten, null)
+
+    companion object{
+        fun openActivity(context: Context, objClass:Class<*>){
+            val intent = Intent(context, objClass)
+            startActivity(context,intent, null)
 
         }
-
     }
 }

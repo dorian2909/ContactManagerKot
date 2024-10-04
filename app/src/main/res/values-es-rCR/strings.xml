@@ -8,4 +8,13 @@
     <string name="MnuSave">Guardar</string>
     <string name="MnuDelete">Eliminar</string>
     <string name="MnuCancel">Cancelar</string>
+    <string name="ContactId">Id Contacto</string>
+    <string name="ContactName">Nombre de contacto</string>
+    <string name="ContactLastName">Apellido de contacto</string>
+    <string name="ContactPhone">Teléfono</string>
+    <string name="ContactEmail">Email</string>
+    <string name="ContactAddress">Dirección</string>
+    <string name="msgContactNotFound">El contacto no existe</string>
+    <string name="msgSatus200">Datos guardados</string>
+    <string name="msgFaltandatos">Faltan datos</string>
 </resources>

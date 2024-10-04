@@ -7,15 +7,15 @@
     <string name="MnuSave">Save</string>
     <string name="MnuDelete">Delete</string>
     <string name="MnuCancel">Cancelar</string>
-
-
-
-
-
-
-
-
-
+    <string name="ContactId">ContactId</string>
+    <string name="ContactName">ContactName</string>
+    <string name="ContactLastName">ContactLastName</string>
+    <string name="ContactPhone">ContactPhone</string>
+    <string name="ContactEmail">ContactEmail</string>
+    <string name="ContactAddress">ContactAddress</string>
+    <string name="msgContactNotFound">The contact dosen´t  exists</string>
+    <string name="msgSatus200">Succesful</string>
+    <string name="msgFaltandatos">Faltan datos</string>
 
 
 </resources>
